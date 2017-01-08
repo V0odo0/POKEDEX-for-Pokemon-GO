@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ad32b7dc7675d74bba1566cdaf9143b, type: 3}
+  m_Name: TextSet
+  m_EditorClassIdentifier: 
+  Lang: 0
+  Elements:
+  - Max CP
+  - Type
+  - Weight
+  - Height
+  - Base Attack
+  - Base Defense
+  - Base Stamina
+  - Quick Moves
+  - Charge Moves
+  - Class
+  - SORT
+  - SEARCH
+  - FAVORITES
+  - SORT BY
+  - ID
+  - Name
+  - sec.
+  - kg
+  - m
+  - SEARCH BY NAME
+  - 'e. g. '
+  - NO MATCHES
+  - FILTER BY EGG HATCHING
+  - km
+  - no egg
+  - FILTER BY TYPE
+  - ALL
+  - NONE
+  - ALL
+  - Energy gain per hit
+  - Critical chance
+  - Dodge window
+  - Energy cost
+  - Base HP
+  - CP multiplier / EVO
+  - Capture rate
+  - Flee rate
+  - Rarity
+  - Page
+  - total
+  - Search result
+  - All
+  - Resistances
+  - Weaknesses
+  - Strong vs.
+  - Weak vs.
+  - FAVORITES
+  - Favorites
+  - List is empty
+  - SETTINGS
+  - NOTE
+  - 
+  - 
+  - 
+  - 
+  Descriptions:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  Messages:
+  - SELECT AT LEAST ONE TYPE FILTER
+  - SELECT AT LEAST ONE EGG FILTER
+  - Welcome, trainer!
+  - 
+  - Browse the list of all available pokes from GO. No internet connection requried
+  - Explore relevant pokes characteristics and other useful information
+  - Use search, filter, sort and favorites list features for quick navigation
+  - Learn strength and weaknesses of each poke
+  - Discover all possible moves to choose the best moveset
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 

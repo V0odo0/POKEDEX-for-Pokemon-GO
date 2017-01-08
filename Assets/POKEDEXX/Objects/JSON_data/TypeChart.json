@@ -1,0 +1,93 @@
+{
+  "TypeChart" : [
+{
+      "Type" : "Bug",
+      "Strenghts" : "Dragon, Grass, Psychic",
+      "Weaknesses" : "Fighting, Flying, Poison, Ghost, Steel, Fire, Fairy"
+    },
+{
+      "Type" : "Dark",
+      "Strenghts" : "Ghost, Psychic",
+      "Weaknesses" : "Dark, Fairy, Fighting"
+    },
+{
+      "Type" : "Dragon",
+      "Strenghts" : "Dragon",
+      "Weaknesses" : "Fairy, Steel"
+    },
+{
+      "Type" : "Electric",
+      "Strenghts" : "Flying, Water",
+      "Weaknesses" : "Dragon, Electric, Grass, Ground"
+    },
+{
+      "Type" : "Fairy",
+      "Strenghts" : "Dark, Dragon, Fighting",
+      "Weaknesses" : "Fire, Poison, Steel"
+    },
+{
+      "Type" : "Fighting",
+      "Strenghts" : "Dark, Ice, Normal, Rock, Steel",
+      "Weaknesses" : "Bug, Fairy, Flying, Ghost, Poison, Psychic"
+    },
+{
+      "Type" : "Fire",
+      "Strenghts" : "Bug, Grass, Ice, Steel",
+      "Weaknesses" : "Dragon, Fire, Rock, Water"
+    },
+{
+      "Type" : "Flying",
+      "Strenghts" : "Bug, Fighting, Grass",
+      "Weaknesses" : "Electric, Rock, Steel"
+    },
+{
+      "Type" : "Ghost",
+      "Strenghts" : "Ghost, Psychic",
+      "Weaknesses" : "Dragon, Normal"
+    },
+{
+      "Type" : "Grass",
+      "Strenghts" : "Ground, Rock, Water",
+      "Weaknesses" : "Bug, Dragon, Fire, Flying, Grass, Poison, Steel"
+    },
+{
+      "Type" : "Ground",
+      "Strenghts" : "Electric, Fire, Poison, Rock, Steel",
+      "Weaknesses" : "Bug, Flying, Grass"
+    },
+{
+      "Type" : "Ice",
+      "Strenghts" : "Dragon, Flying, Grass, Ground",
+      "Weaknesses" : "Fire, Ice, Steel, Water"
+    },
+{
+      "Type" : "Normal",
+      "Strenghts" : "",
+      "Weaknesses" : "Ghost, Rock, Steel"
+    },
+{
+      "Type" : "Poison",
+      "Strenghts" : "Fairy, Grass",
+      "Weaknesses" : "Ghost, Ground, Poison, Rock, Steel"
+    },
+{
+      "Type" : "Psychic",
+      "Strenghts" : "Fighting, Poison",
+      "Weaknesses" : "Dark, Psychic, Steel"
+    },
+{
+      "Type" : "Rock",
+      "Strenghts" : "Bug, Fire, Flying, Ice",
+      "Weaknesses" : "Fighting, Ground, Steel"
+    },
+{
+      "Type" : "Steel",
+      "Strenghts" : "Fairy, Ice, Rock",
+      "Weaknesses" : "Electric, Fire, Steel, Water"
+    },
+{
+      "Type" : "Water",
+      "Strenghts" : "Fire, Ground, Rock",
+      "Weaknesses" : "Dragon, Grass, Water"
+    }
+  ]}

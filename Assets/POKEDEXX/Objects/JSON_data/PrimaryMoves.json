@@ -1,0 +1,331 @@
+{
+  "PrimaryMoves" : [
+{
+      "Name" : "Acid",
+      "Type" : "Poison",
+      "Atk" : 10,
+      "Cooldown" : 1.05,
+      "DPS" : 9.523809523809524,
+      "EnergyGain" : 10
+    },
+{
+      "Name" : "Bite",
+      "Type" : "Dark",
+      "Atk" : 6,
+      "Cooldown" : 0.5,
+      "DPS" : 12,
+      "EnergyGain" : 7
+    },
+{
+      "Name" : "Bubble",
+      "Type" : "Water",
+      "Atk" : 25,
+      "Cooldown" : 2.3,
+      "DPS" : 10.869565217391305,
+      "EnergyGain" : 25
+    },
+{
+      "Name" : "Bug Bite",
+      "Type" : "Bug",
+      "Atk" : 5,
+      "Cooldown" : 0.45,
+      "DPS" : 11.11111111111111,
+      "EnergyGain" : 7
+    },
+{
+      "Name" : "Bullet Punch",
+      "Type" : "Steel",
+      "Atk" : 10,
+      "Cooldown" : 1.2,
+      "DPS" : 8.333333333333334,
+      "EnergyGain" : 10
+    },
+{
+      "Name" : "Confusion",
+      "Type" : "Psychic",
+      "Atk" : 15,
+      "Cooldown" : 1.51,
+      "DPS" : 9.933774834437086,
+      "EnergyGain" : 14
+    },
+{
+      "Name" : "Cut",
+      "Type" : "Normal",
+      "Atk" : 12,
+      "Cooldown" : 1.13,
+      "DPS" : 10.619469026548673,
+      "EnergyGain" : 10
+    },
+{
+      "Name" : "Dragon Breath",
+      "Type" : "Dragon",
+      "Atk" : 6,
+      "Cooldown" : 0.5,
+      "DPS" : 12,
+      "EnergyGain" : 7
+    },
+{
+      "Name" : "Ember",
+      "Type" : "Fire",
+      "Atk" : 10,
+      "Cooldown" : 1.05,
+      "DPS" : 9.523809523809524,
+      "EnergyGain" : 10
+    },
+{
+      "Name" : "Feint Attack",
+      "Type" : "Dark",
+      "Atk" : 12,
+      "Cooldown" : 1.04,
+      "DPS" : 11.538461538461538,
+      "EnergyGain" : 10
+    },
+{
+      "Name" : "Fire Fang",
+      "Type" : "Fire",
+      "Atk" : 10,
+      "Cooldown" : 0.84,
+      "DPS" : 11.904761904761905,
+      "EnergyGain" : 8
+    },
+{
+      "Name" : "Frost Breath",
+      "Type" : "Ice",
+      "Atk" : 9,
+      "Cooldown" : 0.81,
+      "DPS" : 11.11111111111111,
+      "EnergyGain" : 7
+    },
+{
+      "Name" : "Fury Cutter",
+      "Type" : "Bug",
+      "Atk" : 3,
+      "Cooldown" : 0.4,
+      "DPS" : 7.5,
+      "EnergyGain" : 6
+    },
+{
+      "Name" : "Ice Shard",
+      "Type" : "Ice",
+      "Atk" : 15,
+      "Cooldown" : 1.4,
+      "DPS" : 10.714285714285715,
+      "EnergyGain" : 12
+    },
+{
+      "Name" : "Karate Chop",
+      "Type" : "Fighting",
+      "Atk" : 6,
+      "Cooldown" : 0.8,
+      "DPS" : 7.5,
+      "EnergyGain" : 8
+    },
+{
+      "Name" : "Lick",
+      "Type" : "Ghost",
+      "Atk" : 5,
+      "Cooldown" : 0.5,
+      "DPS" : 10,
+      "EnergyGain" : 6
+    },
+{
+      "Name" : "Low Kick",
+      "Type" : "Fighting",
+      "Atk" : 5,
+      "Cooldown" : 0.6,
+      "DPS" : 8.333333333333334,
+      "EnergyGain" : 7
+    },
+{
+      "Name" : "Metal Claw",
+      "Type" : "Steel",
+      "Atk" : 8,
+      "Cooldown" : 0.63,
+      "DPS" : 12.698412698412698,
+      "EnergyGain" : 7
+    },
+{
+      "Name" : "Mud Shot",
+      "Type" : "Ground",
+      "Atk" : 6,
+      "Cooldown" : 0.55,
+      "DPS" : 10.909090909090908,
+      "EnergyGain" : 7
+    },
+{
+      "Name" : "Mud Slap",
+      "Type" : "Ground",
+      "Atk" : 15,
+      "Cooldown" : 1.35,
+      "DPS" : 11.11111111111111,
+      "EnergyGain" : 12
+    },
+{
+      "Name" : "Peck",
+      "Type" : "Flying",
+      "Atk" : 10,
+      "Cooldown" : 1.15,
+      "DPS" : 8.695652173913045,
+      "EnergyGain" : 10
+    },
+{
+      "Name" : "Poison Jab",
+      "Type" : "Poison",
+      "Atk" : 12,
+      "Cooldown" : 1.05,
+      "DPS" : 11.428571428571429,
+      "EnergyGain" : 10
+    },
+{
+      "Name" : "Poison Sting",
+      "Type" : "Poison",
+      "Atk" : 6,
+      "Cooldown" : 0.58,
+      "DPS" : 10.344827586206897,
+      "EnergyGain" : 8
+    },
+{
+      "Name" : "Pound",
+      "Type" : "Normal",
+      "Atk" : 7,
+      "Cooldown" : 0.54,
+      "DPS" : 12.962962962962962,
+      "EnergyGain" : 7
+    },
+{
+      "Name" : "Psycho Cut",
+      "Type" : "Psychic",
+      "Atk" : 7,
+      "Cooldown" : 0.57,
+      "DPS" : 12.280701754385966,
+      "EnergyGain" : 7
+    },
+{
+      "Name" : "Quick Attack",
+      "Type" : "Normal",
+      "Atk" : 10,
+      "Cooldown" : 1.33,
+      "DPS" : 7.518796992481203,
+      "EnergyGain" : 12
+    },
+{
+      "Name" : "Razor Leaf",
+      "Type" : "Grass",
+      "Atk" : 15,
+      "Cooldown" : 1.45,
+      "DPS" : 10.344827586206897,
+      "EnergyGain" : 12
+    },
+{
+      "Name" : "Rock Smash",
+      "Type" : "Fighting",
+      "Atk" : 15,
+      "Cooldown" : 1.41,
+      "DPS" : 10.638297872340425,
+      "EnergyGain" : 12
+    },
+{
+      "Name" : "Rock Throw",
+      "Type" : "Rock",
+      "Atk" : 12,
+      "Cooldown" : 1.36,
+      "DPS" : 8.823529411764705,
+      "EnergyGain" : 15
+    },
+{
+      "Name" : "Scratch",
+      "Type" : "Normal",
+      "Atk" : 6,
+      "Cooldown" : 0.5,
+      "DPS" : 12,
+      "EnergyGain" : 7
+    },
+{
+      "Name" : "Shadow Claw",
+      "Type" : "Ghost",
+      "Atk" : 11,
+      "Cooldown" : 0.95,
+      "DPS" : 11.578947368421053,
+      "EnergyGain" : 8
+    },
+{
+      "Name" : "Spark",
+      "Type" : "Electric",
+      "Atk" : 7,
+      "Cooldown" : 0.7,
+      "DPS" : 10,
+      "EnergyGain" : 8
+    },
+{
+      "Name" : "Splash",
+      "Type" : "Water",
+      "Atk" : 0,
+      "Cooldown" : 1.23,
+      "DPS" : 0,
+      "EnergyGain" : 10
+    },
+{
+      "Name" : "Steel Wing",
+      "Type" : "Steel",
+      "Atk" : 15,
+      "Cooldown" : 1.33,
+      "DPS" : 11.278195488721805,
+      "EnergyGain" : 12
+    },
+{
+      "Name" : "Sucker Punch",
+      "Type" : "Dark",
+      "Atk" : 7,
+      "Cooldown" : 0.7,
+      "DPS" : 10,
+      "EnergyGain" : 9
+    },
+{
+      "Name" : "Tackle",
+      "Type" : "Normal",
+      "Atk" : 12,
+      "Cooldown" : 1.1,
+      "DPS" : 10.909090909090908,
+      "EnergyGain" : 10
+    },
+{
+      "Name" : "Thunder Shock",
+      "Type" : "Electric",
+      "Atk" : 5,
+      "Cooldown" : 0.6,
+      "DPS" : 8.333333333333334,
+      "EnergyGain" : 8
+    },
+{
+      "Name" : "Vine Whip",
+      "Type" : "Grass",
+      "Atk" : 7,
+      "Cooldown" : 0.65,
+      "DPS" : 10.769230769230768,
+      "EnergyGain" : 7
+    },
+{
+      "Name" : "Water Gun",
+      "Type" : "Water",
+      "Atk" : 6,
+      "Cooldown" : 0.5,
+      "DPS" : 12,
+      "EnergyGain" : 7
+    },
+{
+      "Name" : "Wing Attack",
+      "Type" : "Flying",
+      "Atk" : 9,
+      "Cooldown" : 0.75,
+      "DPS" : 12,
+      "EnergyGain" : 7
+    },
+{
+      "Name" : "Zen Headbutt",
+      "Type" : "Psychic",
+      "Atk" : 12,
+      "Cooldown" : 1.05,
+      "DPS" : 11.428571428571429,
+      "EnergyGain" : 9
+    }
+  ]}
